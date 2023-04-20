@@ -6,7 +6,6 @@ function Fruit(){
   const inputFruit = (e) =>{
     setFruit("");
     setFruit(e.target.name);
-
   }
   return(
     <div>
